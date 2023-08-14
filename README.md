@@ -2,7 +2,10 @@
  Projects completed are as part of Great Learning's PGP - Artificial Intelligence and Machine Learning from UT Austin and Great Lakes
 
  # Installation
-
+```
+$ git clone https://github.com/maneeshkumar52/PGP_AIML.git
+$ cd PGP_AIML
+```
 
  # Projects done
 
