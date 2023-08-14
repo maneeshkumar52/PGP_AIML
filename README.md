@@ -13,7 +13,7 @@ This project used Hypothesis Testing and Visualization to leverage customer's he
 #### Skills and Tools : 
 Hypothesis Testing, Data Visualisation, Statistical Inferences
 
-#### Project Link : 
+#### Project Link : https://github.com/maneeshkumar52/PGP_AIML/blob/main/Applied%20Statistics/AS_Project_solution.ipynb
 
 ## 2. Supervised Learning
 
@@ -27,7 +27,7 @@ This Project involved using classification algorithms to predict the income leve
 #### Skills and Tools :
 EDA and Classification Algorithms
 
-#### Project Link : 
+#### Project Link : https://github.com/maneeshkumar52/PGP_AIML/blob/main/Supervised%20Learning/Supervised_Learning.ipynb
 
 ## 3. Ensemble Techniques
 
@@ -48,7 +48,7 @@ This project invovled using different classification alogorithms to predict whet
 #### Skills and Tools :  
 Classification, Decision Trees, Ensemble Techniques
 
-#### Project Link : 
+#### Project Link : https://github.com/maneeshkumar52/PGP_AIML/blob/main/Ensemble%20Technique/EST%20-%20Project.ipynb
 
 ## 4. Unsupervised Learning
 
