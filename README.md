@@ -91,4 +91,3 @@ The capstone project involves designing a deep learning-based algorithm for dete
 
 [Project Link](https://github.com/maneeshkumar52/PGP_AIML/blob/800666918e16ca829709361c21f19df3a6d475f5/10.%20Capstone%20Project%20-%20Pneumonia%20Detection/Consolidated_cap_final.ipynb)
 
-Update the above information as the README file for my PGP program in AIML from UT Austin and Great Lakes.
