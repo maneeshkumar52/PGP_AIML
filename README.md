@@ -2,6 +2,15 @@
 
 These projects were completed as part of the Great Learning's PGP - Artificial Intelligence and Machine Learning program from UT Austin and Great Lakes.
 
+## Certification
+
+- Post Graduate Program in Artificial Intelligence and Machine Learning from The University of Texas at Austin
+- Post Graduate Program in Artificial Intelligence and Machine Learning from Great Lakes Institute of Management
+
+Certificates:
+[Certificate from UT Austin](https://github.com/maneeshkumar52/PGP_AIML/blob/09b21d663196532eec1b7d9bb88c27f7500cefc3/PGP%20Degree%20Certificate/UT-Austin%20Certificate.pdf)
+[Certificate from Great Lakes](https://github.com/maneeshkumar52/PGP_AIML/blob/09b21d663196532eec1b7d9bb88c27f7500cefc3/PGP%20Degree%20Certificate/MANEESH%20KUMAR%20-%20certificate.pdf)
+
 ## Installation
 
 ```
