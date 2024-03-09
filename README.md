@@ -85,7 +85,26 @@ Regression, Decision trees, feature engineering
 
 #### Project Link : 
 
-## 6. Introduction to Neural Network and Deep Learning
+## 6. Intro to SQL
+
+This project involved feature exploration and selection to predict the strength of high-performance concrete. Used Regression models to find out the most important features and predict the strength. Cross-validation techniques and Grid search were used to tune the parameters for best model performance. The regression algorithms that were used are:
+  * Linear Regressor	
+  * Ridge Regressor	
+  * Lasso Regressor	
+  * Polynomial (2) Regressor	
+  * Polynomial (3) Regressor	
+  * Decision Tree Regressor
+  * Random Forest Regressor	
+  * AdaBoost Regressor	
+  * Gradient Boosting Regressor	
+  * XGBoost Regressor
+
+#### Skills and Tools :
+Regression, Decision trees, feature engineering
+
+#### Project Link : 
+
+## 7. Introduction to Neural Network and Deep Learning
 
 The objective of the project is to learn how to implement a simple image classification pipeline based on the k-Nearest Neighbour and a deep neural network.    
 SVHN is a real-world image dataset for developing object recognition algorithms with a requirement on data formatting but comes from a significantly harder, unsolved, real-world problem (recognizing digits and numbers in natural scene images). SVHN is obtained from house numbers in Google Street View images. 
@@ -95,24 +114,15 @@ Neural Networks, Deep Learning, Keras, Image Recognition
 
 #### Project Link : 
 
-## 7. Computer Vision - Face Detection
+## 8. Computer Vision - Face Detection
 
-In this hands-on project, the goal is to build a face recognition system, which includes building a face detector to locate the position of a face in an image and a face identification model to recognize whose face it is by matching it to the existing database of faces.   Recognize, identify and classify faces within images using CNN and image recognition algorithms. 
+In this hands-on project, the goal is to build a face recognition system, which includes building a face detector to locate the position of a face in an image and a face identification model to recognize whose face it is by matching it to the existing database of faces.   Recognize, identify and classify faces within images using CNN and image recognition algorithms. Face recognition deals with Computer Vision a discipline of Artificial Intelligence and uses techniques of image processing and deep learning. 
 
 #### Skills and Tools :
-Computer Vision, CNN, Transfer Learning, Object detection
+Computer Vision, Keras, CNN, Transfer Learning, Object detection, Siamese Networks, Triplet loss
 
 #### Project Link : 
 
-## 8. Computer Vision - Face Recognition
-
-The objective of this project is to build a face recognition system, which includes building a face detector to locate the position of a face in an image and a face identification model to recognize whose face it is by matching it to the existing database of faces.  
-Face recognition deals with Computer Vision a discipline of Artificial Intelligence and uses techniques of image processing and deep learning. 
-
-#### Skills and Tools :
-Computer Vision, Keras, CNN, Siamese Networks, Triplet loss
-
-#### Project Link : 
 
 ## 9. Natural Language Processing - Sarcasm Detection
 
@@ -120,5 +130,15 @@ The goal of this hands-on project is to analyse the headlines of the articles fr
 
 #### Skills and Tools :
 LSTM, Classification, GloVe
+
+#### Project Link : 
+
+
+## 10. Capstone Project - Pneumonia Detection
+
+The goal of this hands-on project is to Design a DL based algorithm for detecting pneumonia.
+
+#### Skills and Tools :
+CNN, RCNN, 
 
 #### Project Link : 
